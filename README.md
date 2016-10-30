@@ -5,7 +5,8 @@ Sveučilište u Zagrebu<br>
 
 2015./2016.
 
-# Teme laboratorijskih vježbi: Procjena parametara, Bayesov klasifikator za diskretne značajke, Bayesov klasifikator za kontinuirane značajke, Univarijatna regresija, Polinomijalna regresija i utjecaj šuma, Regularizirana regresija, Regularizirana polinomijalna regresija, L1-regularizacija i L2-regularizacija, Linearna regresija kao klasifikator, Višeklasna klasifikacija, Perceptron, Logistička regresija, Analiza logističke regresije, Regularizirana logistička regresija, Logistička regresija s funkcijom preslikavanja, Klasifikator SVM, Usporedba linearnih modela, Nelinearan SVM, Optimizacija hiperparametara SVM-a, Višeklasna klasifikacija SVM-om, Implementacija algoritma k-nn, Empirijska analiza algoritma k-nn, Nerobusnost algoritma k-nn, Stabla odluke, Regularizacija stabala odluke, Matrice zabune i evaluacijske mjere   
+# Teme laboratorijskih vježbi: 
+###Procjena parametara, Bayesov klasifikator za diskretne značajke, Bayesov klasifikator za kontinuirane značajke, Univarijatna regresija, Polinomijalna regresija i utjecaj šuma, Regularizirana regresija, Regularizirana polinomijalna regresija, L1-regularizacija i L2-regularizacija, Linearna regresija kao klasifikator, Višeklasna klasifikacija, Perceptron, Logistička regresija, Analiza logističke regresije, Regularizirana logistička regresija, Logistička regresija s funkcijom preslikavanja, Klasifikator SVM, Usporedba linearnih modela, Nelinearan SVM, Optimizacija hiperparametara SVM-a, Višeklasna klasifikacija SVM-om, Implementacija algoritma k-nn, Empirijska analiza algoritma k-nn, Nerobusnost algoritma k-nn, Stabla odluke, Regularizacija stabala odluke, Matrice zabune i evaluacijske mjere   
 
 
 (c) 2016 Josip Milić
